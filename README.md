@@ -1,7 +1,7 @@
 # Smart fire detection system using Raspbbery Pi
 The system detects, alarms and sends notifications with images to the phone when there is a fire. Turn the pump on and off remotely via your phone.
 1. Raspberry Pi: Raspberry  Pi 4 model B used in project.
-2. Model Convolution neuro network used to detecting fire:\
+2. Model Convolution neural network used to detecting fire:\
    Dataset using for training: [dataset](https://drive.google.com/drive/folders/1eDbUsYpi8hhWzGVeI6DLN6IdoN4kYBmU?usp=sharing)\
    Layers in the model: \
    <img src="Demo/Model_pic.png" width="400">
